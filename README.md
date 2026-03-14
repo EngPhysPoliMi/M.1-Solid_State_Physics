@@ -1,6 +1,6 @@
-# x.y - Template
+# M.1 - Solid State Physics
 
-Repository for "Template".
+Repository for "Solid State Physics".
 
 
 ## Use instructions
